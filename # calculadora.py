@@ -41,4 +41,6 @@ while True:
         print("Resultado:", divide(n1, n2))
     else:
         print("Opção inválida!")
-        
+
+
+adicionando esse texto para mostrar uma alteração.
